@@ -93,7 +93,8 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stpaulcenter.com/studies/courses/reading-the-old-testament-in-the-new-the-gospel-of-matthew&quot;&gt;Reading the Old Testament in the New: The Gospel of Matthew&lt;/a&gt; a written course in 6 lessons.&lt;/li&gt;
 &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stpaulcenter.com/studies/audio-courses/proclaiming-the-kingdom-the-gospel-of-matthew&quot;&gt;Proclaiming the Kingdom: The Gospel of Matthew&lt;/a&gt; an audio course of 10 lectures.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;The second breaks up the chapters so I'll use that as a guide to my sections here.&lt;/p&gt;"></unicode>
+&lt;p&gt;The second breaks up the chapters so I'll use that as a guide to my sections here.&lt;/p&gt;
+&lt;p&gt;I'm using &lt;a href=&quot;http://exelearning.net&quot;&gt;EXElearning&lt;/a&gt; to write the pages and a &lt;a target=&quot;_blank&quot; href=&quot;http://github.com/veromary/matthew/&quot;&gt;GitHub repository&lt;/a&gt; to store and host files.&lt;/p&gt;"></unicode>
           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
           <int value="4"></int>
           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3979,7 +3980,7 @@ or providing a statement to begin a debate."></unicode>
   <string role="key" value="compatibleWithVersion9"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="80"></reference>
+  <reference key="3"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
